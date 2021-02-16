@@ -21,7 +21,7 @@ from mobly import signals
 # python's own unittest.
 _pyunit_proxy = unittest.TestCase()
 
-
+#adding comment line
 def assert_equal(first, second, msg=None, extras=None):
   """Assert the equality of objects, otherwise fail the test.
 
